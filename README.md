@@ -29,25 +29,15 @@ The firmware files are in the /Firmware folder.
 
 # BOM 
 
-BILL OF MATERIALS (BOM)
-Currency: USD
-Conversion: 1 USD = ₹90
+Item,Description,Quantity,Unit Price (USD),Total Price (USD),Source
+Cherry MX RGB Switch,Mechanical keyboard switch,50,0.42,20.00,https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/cherry-mx-rgb-switch/
+Kailh Hot-Swap Socket,MX hot-swap socket,50,0.087,4.35,https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/kailh-hot-swap-socket/
+Seeed XIAO nRF52840,Bluetooth LE microcontroller,2,12.22,24.44,https://robocraze.com/products/seeed-studio-xiao-nrf52840-development-board-supports-bluetooth-5-0
+Blank DSA Keycaps (1u),1 set = 5 keycaps,9 sets,1.00,9.00,https://meckeys.com/shop/accessories/keyboard-accessories/keycaps/blank-dsa-keycaps-1u/
+Custom PCB + Shipping,PCB fabrication,1,29.00,29.00,JLCPCB
+3.7V Li-Po Battery (1000mAh),Battery (left & right),2,1.22,2.44,https://quartzcomponents.com/products/3-7v-1000mah-li-po-rechargeable-battery
+1N4148WS Diode (SOD-123),Keyboard matrix diode,100,0.02,1.11,https://quartzcomponents.com/products/1n4148ws-t4-switching-diode-sod-123-smd-package
 
-----------------------------------------------------------------------------------------------------
-ITEM                     | DESCRIPTION                              | QTY | UNIT $  | TOTAL $ | SOURCE
-----------------------------------------------------------------------------------------------------
-Cherry MX RGB Switch     | Mechanical keyboard switch               | 50  | 0.42    | 20.00   | https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/cherry-mx-rgb-switch/
-Kailh Hot-Swap Socket    | MX hot-swap socket                       | 50  | 0.087   | 4.35    | https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/kailh-hot-swap-socket/
-Seeed XIAO nRF52840      | Bluetooth LE microcontroller             | 2   | 12.22   | 24.44   | https://robocraze.com/products/seeed-studio-xiao-nrf52840-development-board-supports-bluetooth-5-0
-Blank DSA Keycaps (1u)   | 1 set = 5 keycaps                        | 9   | 1.00    | 9.00    | https://meckeys.com/shop/accessories/keyboard-accessories/keycaps/blank-dsa-keycaps-1u/
-Custom PCB + Shipping    | PCB fabrication and shipping             | 1   | 29.00   | 29.00   | JLCPCB
-3.7V Li-Po Battery 1000mAh| Battery (left + right)                  | 2   | 1.22    | 2.44    | https://quartzcomponents.com/products/3-7v-1000mah-li-po-rechargeable-battery
-1N4148WS Diode SOD-123   | Keyboard matrix diode                    | 100 | 0.02    | 1.11    | https://quartzcomponents.com/products/1n4148ws-t4-switching-diode-sod-123-smd-package
-----------------------------------------------------------------------------------------------------
-SUBTOTAL                                                                          = 90.34 USD
-
-ESTIMATED FINAL COST (after shipping, tax, 3D printed parts) ≈ 99 USD
-----------------------------------------------------------------------------------------------------
 
 
 
