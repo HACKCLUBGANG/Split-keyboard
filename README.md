@@ -11,7 +11,8 @@ I made this in blueprint 15-01-2025 Submission Date
 # PCB
 
 This is the pcb.
-<img width="1001" height="515" alt="image" src="https://github.com/user-attachments/assets/cd24d359-4bb1-426c-89b0-d23708f49885" />
+![Uploading image.png…]()
+
 
 # PCB MOUNT 
 
