@@ -7,6 +7,7 @@ I made this in blueprint 15-01-2025 Submission Date
 
 <img width="603" height="471" alt="image" src="https://github.com/user-attachments/assets/c2be28c1-9cbe-4cca-8a8f-8d4884b6e8c7" />
 <img width="748" height="472" alt="image" src="https://github.com/user-attachments/assets/d6405976-d8c0-4716-9a73-455c8ebd7c36" />
+https://cad.onshape.com/documents/ffbee3866af09d3b8a49db09/w/10a4b4b0323b120327f8c03f/e/d3296c549cb356aafd46009f?renderMode=0&uiState=696fc5bc1a8a69eeb791e3d8
 
 # PCB
 
