@@ -11,7 +11,8 @@ I made this in blueprint 15-01-2025 Submission Date
 # PCB
 
 This is the pcb.
-![Uploading image.png…]()
+<img width="745" height="394" alt="image" src="https://github.com/user-attachments/assets/04ab2ff7-d321-4f91-84a2-7f50938eb8ed" />
+
 
 
 # PCB MOUNT 
@@ -37,17 +38,21 @@ The firmware files are in the /Firmware folder.
 
 # BOM 
 
-| Item                     | Description                    | Qty | Unit Price (USD) | Total (USD) | Source |
-|--------------------------|--------------------------------|-----|------------------|-------------|--------|
-| Cherry MX RGB Switch     | Mechanical keyboard switch     | 50  | 0.42             | 20.00       | https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/cherry-mx-rgb-switch/ |
-| Kailh Hot-Swap Socket    | MX hot-swap socket             | 50  | 0.087            | 4.35        | https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/kailh-hot-swap-socket/ |
-| Seeed XIAO nRF52840      | Bluetooth LE microcontroller   | 2   | 12.22            | 24.44       | https://robocraze.com/products/seeed-studio-xiao-nrf52840-development-board-supports-bluetooth-5-0 |
-| Blank DSA Keycaps (1u)   | 1 set = 5 keycaps              | 9   | 1.00             | 9.00        | https://meckeys.com/shop/accessories/keyboard-accessories/keycaps/blank-dsa-keycaps-1u/ |
-| Custom PCB + Shipping    | PCB fabrication and shipping   | 1   | 29.00            | 29.00       | JLCPCB |
-| 3.7V Li-Po Battery       | Battery (left & right)         | 2   | 1.22             | 2.44        | https://quartzcomponents.com/products/3-7v-1000mah-li-po-rechargeable-battery |
-| 1N4148WS Diode SOD-123   | Keyboard matrix diode          | 100 | 0.02             | 1.11        | https://quartzcomponents.com/products/1n4148ws-t4-switching-diode-sod-123-smd-package |
+Item                     | Description                          | Qty | Unit Price (USD) | Total (USD) | Source
+-------------------------|--------------------------------------|-----|------------------|-------------|-------
+Cherry MX RGB Switch     | Mechanical keyboard switch           | 50  | 0.42             | 20.00       | https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/cherry-mx-rgb-switch/
+Kailh Hot-Swap Socket    | MX hot-swap socket                   | 50  | 0.087            | 4.35        | https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/kailh-hot-swap-socket/
+Seeed XIAO nRF52840      | Bluetooth LE microcontroller         | 2   | 12.22            | 24.44       | https://robocraze.com/products/seeed-studio-xiao-nrf52840-development-board-supports-bluetooth-5-0
+Blank DSA Keycaps (1u)   | 1 set = 5 keycaps                    | 9   | 1.00             | 9.00        | https://meckeys.com/shop/accessories/keyboard-accessories/keycaps/blank-dsa-keycaps-1u/
+Custom PCB + Shipping    | PCB fabrication and shipping         | 1   | 29.00            | 29.00       | JLCPCB
+3.7V Li-Po Battery       | Battery (left & right)               | 2   | 1.22             | 2.44        | https://quartzcomponents.com/products/3-7v-1000mah-li-po-rechargeable-battery
+1N4148WS Diode SOD-123   | Keyboard matrix diode                | 100 | 0.02             | 1.11        | https://quartzcomponents.com/products/1n4148ws-t4-switching-diode-sod-123-smd-package
+DPDT Slide Switch        | Miniature DPDT slide switch          | 4   | 0.07             | 0.29        | https://quartzcomponents.com/products/dpdt-miniature-slide-switch?variant=31898088669319
 
-**Parts Subtotal:** $90.34  
+GRAND TOTAL (USD): 90.63
+
+
+**Parts Subtotal:** $90.63  
 **Estimated Final Cost:** ≈ $99 USD (after shipping, tax, 3D parts)
 
 
