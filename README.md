@@ -13,6 +13,13 @@ I made this in blueprint 15-01-2025 Submission Date
 This is the pcb.
 <img width="1001" height="515" alt="image" src="https://github.com/user-attachments/assets/cd24d359-4bb1-426c-89b0-d23708f49885" />
 
+# PCB MOUNT 
+
+There vry little clearance so the pcb is fit tight
+
+<img width="497" height="413" alt="PCB" src="https://github.com/user-attachments/assets/fb9bdc49-ef16-4a38-adac-b232e70a7f43" />
+
+
 # Schematic
 
 Left
