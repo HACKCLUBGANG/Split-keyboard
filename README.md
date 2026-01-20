@@ -55,6 +55,27 @@ GRAND TOTAL (USD): 90.63
 **Parts Subtotal:** $90.63  
 **Estimated Final Cost:** ≈ $99 USD (after shipping, tax, 3D parts)
 
+# CART PICS (INR)
+
+QUARTZ COMPONENTS
+<img width="1122" height="579" alt="image" src="https://github.com/user-attachments/assets/06afdc25-7c1c-4b12-b5fa-cc3271e50851" />
+
+MECKEYS
+<img width="949" height="581" alt="image" src="https://github.com/user-attachments/assets/8138eb45-a8dd-4399-ab76-e91738140a4c" />
+<img width="580" height="492" alt="image" src="https://github.com/user-attachments/assets/9ae1e612-b870-4a5a-8de5-50ac5f7dcc92" />
+<img width="583" height="588" alt="image" src="https://github.com/user-attachments/assets/ee1bbfa5-5f1a-44a2-b360-84ad5ead2195" />
+
+ROBOCRAZE
+<img width="1214" height="576" alt="image" src="https://github.com/user-attachments/assets/ef70debd-005e-43ed-9350-ba1c4e50ff6a" />
+
+JLCPCB
+<img width="1096" height="606" alt="image" src="https://github.com/user-attachments/assets/89fe9fa2-e1c0-43ee-b89c-62909a4182eb" />
+
+
+
+
+
+
 
 
 
